@@ -1,0 +1,7 @@
+organization=conecta4-neydor
+projectKey=conecta4-neydor:conecta4
+serverUrl=https://sonarcloud.io
+serverVersion=7.2.0.12086
+dashboardUrl=https://sonarcloud.io/dashboard/index/conecta4-neydor:conecta4
+ceTaskId=AWOkxPJGNPlZRTBE7lS5
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWOkxPJGNPlZRTBE7lS5
